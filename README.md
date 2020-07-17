@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  Hi everyone, I'm 严尚君(my chinese name), you can call me Yan. I'm a Software Engineer.
+
+- 🔭 I’m currently working on [vert.x](https://github.com/eclipse-vertx/vert.x) and [cocos creator](https://github.com/cocos-creator/engine)
+- 🌱 I’m currently learning [layabox](https://github.com/layabox/LayaAir)
+
+
+
 <!--
 **okou19900722/okou19900722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
