@@ -7,10 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+More Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool)](https://github.com/okou19900722/lippen-network-tool)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper)](https://github.com/okou19900722/minesweeper)
 <!--
 **okou19900722/okou19900722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
