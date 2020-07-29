@@ -16,7 +16,13 @@ More Pinned Projects
 [![ReadMe Card](https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=lippen-network-tool)](https://github.com/okou19900722/lippen-network-tool)
 [![ReadMe Card](https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=minesweeper)](https://github.com/okou19900722/minesweeper)
 
+<p align="left">
+<a href="http://wpa.qq.com/msgrd?v=3&uin=512058895&site=qq&menu=yes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tencentqq.svg" alt="qq" height="20" width="20" /></a>
+<a href="http://weibo.com/512058895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sinaweibo.svg" alt="微博" height="20" width="20" /></a>
+<a href="https://www.zhihu.com/people/lan-yan-chen-yu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg" alt="知乎" height="20" width="20" /></a>
+</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=okou19900722" alt="okou19900722" /> </p>
 <!--
 **okou19900722/okou19900722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
