@@ -3,19 +3,38 @@
 - 🔭 I’m currently working on [vert.x](https://github.com/eclipse-vertx/vert.x) and [cocos creator](https://github.com/cocos-creator/engine)
 - 🌱 I’m currently learning [layabox](https://github.com/layabox/LayaAir)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=33)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=33" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html" alt="Top Langs" />
+</a>
+
+</p>
 
 <hr>
 
-More Pinned Projects
+**More Pinned Projects**
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool)](https://github.com/okou19900722/lippen-network-tool)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper)](https://github.com/okou19900722/minesweeper)
 -->
+
+<!--
 [![ReadMe Card](https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=lippen-network-tool)](https://github.com/okou19900722/lippen-network-tool)
 [![ReadMe Card](https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=minesweeper)](https://github.com/okou19900722/minesweeper)
+-->
+
+<p align="center">
+  <a href="https://github.com/okou19900722/minesweeper">
+    <img align="center" src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=minesweeper" alt="minesweeper" />
+  </a>
+  <a href="https://github.com/okou19900722/lippen-network-tool">
+    <img align="center" src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=lippen-network-tool" alt="lippen-network-tool" />
+  </a>
+</p>
+
 
 <hr>
 
