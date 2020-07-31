@@ -22,7 +22,7 @@ More Pinned Projects
 <p align="center">
 <a href="http://wpa.qq.com/msgrd?v=3&uin=512058895&site=qq&menu=yes" target="blank"><img align="center" src="https://img.icons8.com/color/1x/qq.png" alt="qq" height="48" width="48" /></a>
 <a href="http://weibo.com/512058895" target="blank"><img align="center" src="https://img.icons8.com/color/1x/weibo.png" alt="微博" height="48" width="48" /></a>
-<a href="https://www.zhihu.com/people/lan-yan-chen-yu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg" alt="知乎" height="48" width="48" /></a>
+<a href="https://www.zhihu.com/people/lan-yan-chen-yu" target="blank"><img align="center" src="https://www.easyicon.net/api/resizeApi.php?id=1164484&size=48" alt="知乎" height="48" width="48" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=okou19900722" alt="okou19900722" /> </p>
