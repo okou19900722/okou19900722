@@ -28,14 +28,15 @@
 
 <p align="center">
   <a href="https://github.com/okou19900722/minesweeper">
-    <img align="center" src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=minesweeper" alt="minesweeper" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper" alt="minesweeper" />
   </a>
   <a href="https://github.com/okou19900722/lippen-network-tool">
-    <img align="center" src="https://8zqkewwfb2.execute-api.us-east-1.amazonaws.com/prod/api/pin/?username=okou19900722&repo=lippen-network-tool" alt="lippen-network-tool" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool" alt="lippen-network-tool" />
   </a>
 </p>
 
-
+<hr>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=okou19900722&background=FFFEFE&stroke=3080ED&ring=5194F0&fire=4D71F2&sideNums=343434&currStreakNum=343434&currStreakLabel=343434&sideLabels=343434&dates=343434"> </p>
 <hr>
 
 <p align="center">
@@ -49,7 +50,6 @@
     <img align="center" src="https://www.easyicon.net/api/resizeApi.php?id=1164484&size=48" alt="知乎" height="48" width="48" />
   </a>
 </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=okou19900722" alt="okou19900722" /> </p>
 <!--
 **okou19900722/okou19900722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
