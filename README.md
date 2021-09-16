@@ -47,7 +47,7 @@
     <img align="center" src="https://img.icons8.com/color/1x/weibo.png" alt="微博" height="48" width="48" />
   </a>
   <a href="https://www.zhihu.com/people/lan-yan-chen-yu" target="blank">
-    <img align="center" src="https://www.easyicon.net/api/resizeApi.php?id=1164484&size=48" alt="知乎" height="48" width="48" />
+    <img align="center" src="http://gdown.baidu.com/img/0/512_512/360b728ac1cfbbe6863ada370fab85a5.png" alt="知乎" height="48" width="48" />
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=okou19900722" alt="okou19900722" /> </p>
