@@ -5,14 +5,18 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=transparent">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=transparent">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default">
+    <img  align="center" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default">
+  </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html,css&theme=transparent" alt="Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html,css&theme=transparent">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html,css&theme=default">
+    <img  align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html,css&theme=default">
+  </picture>
 </a>
 
 </p>
@@ -32,15 +36,29 @@
 
 <p align="center">
   <a href="https://github.com/okou19900722/minesweeper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper" alt="minesweeper" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper&theme=transparent">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper&theme=default">
+      <img  align="center" alt="minesweeper" src="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=minesweeper&theme=default">
+    </picture>
   </a>
   <a href="https://github.com/okou19900722/lippen-network-tool">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool" alt="lippen-network-tool" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool&theme=transparent">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool&theme=default">
+      <img  align="center" alt="minesweeper" src="https://github-readme-stats.vercel.app/api/pin/?username=okou19900722&repo=lippen-network-tool&theme=default">
+    </picture>
   </a>
 </p>
 
 <hr>
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=okou19900722&background=FFFEFE&stroke=3080ED&ring=5194F0&fire=4D71F2&sideNums=343434&currStreakNum=343434&currStreakLabel=343434&sideLabels=343434&dates=343434"> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=okou19900722&background=0D1117&ring=58A6FF&sideNums=58A6FF&currStreakLabel=C9D1D9&border=21262D&stroke=21262D&fire=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=okou19900722&background=FFFFFF&ring=0969DA&sideNums=0969DA&currStreakLabel=57606A&border=D8DEE4&stroke=D8DEE4&fire=0969DA&sideLabels=57606A&dates=A4AAAF&currStreakNum=0969DA">
+    <img  align="center" alt="minesweeper" src="http://github-readme-streak-stats.herokuapp.com?user=okou19900722&background=FFFFFF&ring=0969DA&sideNums=0969DA&currStreakLabel=57606A&border=D8DEE4&stroke=D8DEE4&fire=0969DA&sideLabels=57606A&dates=A4AAAF&currStreakNum=0969DA">
+  </picture>
+</p>
 <hr>
 
 <p align="center">
