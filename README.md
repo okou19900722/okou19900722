@@ -3,16 +3,13 @@
 - 🔭 I’m currently working on [vert.x](https://github.com/eclipse-vertx/vert.x) and [cocos creator](https://github.com/cocos-creator/engine)
 - 🌱 I’m currently learning [layabox](https://github.com/layabox/LayaAir)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default#gh-light-mode-only" alt="Anurag's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=transparent#gh-dark-mode-only" alt="Anurag's github stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=transparent">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=default">
+</picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okou19900722&hide=html,css&theme=transparent" alt="Top Langs" />
