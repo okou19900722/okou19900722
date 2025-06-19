@@ -69,10 +69,21 @@
     <img align="center" src="https://img.icons8.com/color/1x/weibo.png" alt="微博" height="48" width="48" />
   </a>
   <a href="https://www.zhihu.com/people/lan-yan-chen-yu" target="blank">
-    <img align="center" src="http://gdown.baidu.com/img/0/512_512/360b728ac1cfbbe6863ada370fab85a5.png" alt="知乎" height="48" width="48" />
+    <img align="center" src="https://picx.zhimg.com/v2-dabccb1dd4014217316be5ea14021653_xl.jpg" alt="知乎" height="48" width="48" style="border-radius: 15px" />
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=okou19900722" alt="okou19900722" /> </p>
+
+<hr>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=light">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=dark">
+    <img  align="center" alt="minesweeper" src="https://skillicons.dev/icons?i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=light">
+  </picture>
+</p>
+<hr>
+
 <!--
 **okou19900722/okou19900722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
