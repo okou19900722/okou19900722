@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning [layabox](https://github.com/layabox/LayaAir)
 
 <p align="center">
+<img src="https://skillicons.dev/icons?perline=9&i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=dark" />
+</p>
+
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=okou19900722&show_icons=true&line_height=40&theme=transparent">
@@ -74,15 +78,6 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=okou19900722" alt="okou19900722" /> </p>
 
-<hr>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=light">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=dark">
-    <img  align="center" alt="minesweeper" src="https://skillicons.dev/icons?i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=light">
-  </picture>
-</p>
-<hr>
 
 <!--
 **okou19900722/okou19900722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
