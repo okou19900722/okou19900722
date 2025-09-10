@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [layabox](https://github.com/layabox/LayaAir)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?perline=9&i=bash,css,dart,docker,eclipse,flutter,git,github,githubactions,gitlab,gmail,gradle,html,idea,java,js,kotlin,maven,mysql,npm,postman,redis,rust,spring,sublime,ts,webstorm&theme=dark" />
+<img src="https://skillicons.dev/icons?perline=6&i=idea,eclipse,gradle,maven,java,spring,kotlin,androidstudio,sublime,vscode,git,gitlab,github,githubactions,bash,css,html,js,ts,npm,webstorm,nodejs,vue,vite,flutter,dart,gmail,postman,mysql,redis,linux,nginx,php,phpstorm,rust,docker&theme=dark" />
 </p>
 
 <p align="center">
