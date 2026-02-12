@@ -1,7 +1,6 @@
 ### Hi there 👋I'm 严尚君(my chinese name), you can call me Yan. I'm a Software Engineer.
 
-- 🔭 I’m currently working on [vert.x](https://github.com/eclipse-vertx/vert.x) and [cocos creator](https://github.com/cocos-creator/engine)
-- 🌱 I’m currently learning [layabox](https://github.com/layabox/LayaAir)
+- 🔭 I’m currently working on [spring cloud](https://github.com/spring-projects/spring-boot)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?perline=6&i=idea,eclipse,gradle,maven,java,spring,kotlin,androidstudio,sublime,vscode,git,gitlab,github,githubactions,bash,css,html,js,ts,npm,webstorm,nodejs,vue,vite,flutter,dart,gmail,postman,mysql,redis,linux,nginx,php,phpstorm,rust,docker&theme=dark" />
